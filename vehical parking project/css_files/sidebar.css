@@ -1,0 +1,21 @@
+/* @media screen and (min-width:992px) {
+
+    .navbar ,.container-fluid,.navbar-expand-lg,.navbar-collapse,.navbar-expand-lg,.nav-item,.navbar-nav{
+        flex-direction: column;
+        align-items: flex-start;
+    }
+.navbar{
+    width: 15%;
+    min-width: 150px;
+    height: 100vh;
+    align-items: flex-start;
+}
+    
+} */
+
+
+.navbar {
+    min-height: 100vh;
+    height: 100%;
+    align-items: flex-start;
+}
